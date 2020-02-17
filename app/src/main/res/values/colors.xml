@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="Primary">#FFC300</color>
+    <color name="Dark"> #4a3d00 </color>
+    <color name="Accent">#BCA67E </color>
+    <color name="Accent1">#FFF4D7</color>
+    <color name="Transparent">#00000000</color>
+    <color name="Hitam">#000</color>
+    <color name="Putih">#FFFFFF</color>
+</resources>
